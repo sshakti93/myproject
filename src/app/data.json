@@ -1,0 +1,19 @@
+{"products":
+    [
+        {
+            "name": "Lenovo thinkbook 16",
+            "processor": "amd ryzen 5 7530u",
+            "gpu": "amd radeon graphics",
+            "storage": "512gb ssd"},
+
+
+
+        {
+            "name": "Msi Gf63 thin",
+            "processor": "i5 12450H",
+            "gpu": "gtx 1650",
+            "storage": "512gb ssd"}
+    ]
+    
+}
+    
