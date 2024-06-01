@@ -4,7 +4,9 @@
             "name": "Lenovo thinkbook 16",
             "processor": "amd ryzen 5 7530u",
             "gpu": "amd radeon graphics",
-            "storage": "512gb ssd"},
+            "storage": "512gb ssd",
+            "memory": "16gb ddr4"},
+
 
 
 
@@ -12,7 +14,8 @@
             "name": "Msi Gf63 thin",
             "processor": "i5 12450H",
             "gpu": "gtx 1650",
-            "storage": "512gb ssd"}
+            "storage": "512gb ssd",
+            "memory": "16gb ddr4"}
     ]
     
 }
